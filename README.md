@@ -1,6 +1,6 @@
 # Home Sales Data Analysis with SparkSQL
 
-![Housing Market Analysis](https://images.unsplash.com/photo-1590608897129-79f956fc7000?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+<img src="https://images.unsplash.com/photo-1560520031-3a4dc4e9de0c?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Housing Market Analysis" width="25%">
 
 *Photo by [Tierra Mallorca](https://unsplash.com/@tierramallorca) on [Unsplash](https://unsplash.com/photos/JXI2Ap8dTNc)*
 
